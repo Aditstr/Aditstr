@@ -1,4 +1,16 @@
-## Hi there 👋
+### Halo, aku Adit 👋
+Mahasiswa Teknik Informatika | Lulusan SMK TKJ  
+Tertarik pada Web Development, Jaringan, dan Cybersecurity  
+Lagi aktif belajar & bikin project kecil untuk nambah skill 
+
+🌱 Saat ini lagi belajar:
+- HTML, CSS, JavaScript
+- Python dasar
+- Cybersecurity di TryHackMe
+
+📫 Kontak :
+- Email: adettsatrio@gmail.com
+- GitHub: github.com/Aditstr
 
 <!--
 **Aditstr/Aditstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
