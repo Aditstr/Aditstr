@@ -1,12 +1,3 @@
-### Halo, aku Adit 👋
-Mahasiswa Teknik Informatika | Lulusan SMK TKJ  
-Tertarik pada Web Development, Jaringan, dan Cybersecurity  
-Lagi aktif belajar & bikin project kecil untuk nambah skill 
-
-🌱 Saat ini lagi belajar:
-- HTML, CSS, JavaScript
-- Python dasar
-- Cybersecurity 
 
 📫 Kontak :
 - Email: adettsatrio@gmail.com
